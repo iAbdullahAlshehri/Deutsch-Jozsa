@@ -11,3 +11,6 @@ In contrast, the Deutsch-Jozsa algorithm extends this concept to determine the n
 ## The output:
 <img width="1106" alt="Screenshot 2023-09-28 at 5 18 03 PM" src="https://github.com/iAbdullahAlshehri/Deutsch-Jozsa/assets/98882472/a1bcfeb5-d778-4ec6-9a2b-93045dcd8048">
 
+## Contributions:
+
+Contributions, bug fixes, and enhancements are welcome. Feel free to submit pull requests or open issues for discussions.
